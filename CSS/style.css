@@ -1,0 +1,32 @@
+.first-header {
+    color:#000000;
+    font-family: tahoma;
+    font-size: 30px
+}
+#second-header{
+    color:rgp(125,125,125);
+    font-family: Tahoma;
+    font-size: 30px
+}
+
+input{
+    display: block;
+    margin: 10px
+}
+
+.login{
+    margin: 50px auto;
+    padding:50px;
+    background:red ;
+    width: fit-content;
+}
+.login input{
+    margin:20px;
+    padding:10px;
+}
+.login .log-bt{
+    width: 100%;
+    background:blue ;
+    color: azure;
+    padding: 10px;
+}      
